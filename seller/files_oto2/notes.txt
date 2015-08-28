@@ -1,0 +1,1 @@
+If you want to host the files on your server, download the OTO2 zip files and place them in this folder.
